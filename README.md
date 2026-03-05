@@ -42,9 +42,7 @@ Il dataset MNIST contiene 70.000 immagini di cifre scritte a mano, ciascuna di d
 ### Esempio numerico di dato grezzo
 Un pixel nel dataset MNIST originale ha valori tra 0 e 255. Dopo la normalizzazione:
 
-$$
-pixel_{normalizzato} = \frac{pixel_{originale} - 127.5}{127.5}
-$$
+$pixel_{normalizzato} = \frac{pixel_{originale} - 127.5}{127.5}$
 
 Esempio: se un pixel ha valore 200:
 $$
