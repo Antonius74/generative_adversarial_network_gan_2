@@ -45,9 +45,7 @@ Un pixel nel dataset MNIST originale ha valori tra 0 e 255. Dopo la normalizzazi
 $pixel_{normalizzato} = \frac{pixel_{originale} - 127.5}{127.5}$
 
 Esempio: se un pixel ha valore 200:
-$$
-\frac{200 - 127.5}{127.5} \approx 0.57
-$$
+$\frac{200 - 127.5}{127.5} \approx 0.57$
 
 ### Output atteso
 - **Generatore**: Produce immagini fake che imitano quelle del MNIST
