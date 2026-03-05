@@ -1,6 +1,3 @@
-Information Tecnologica prevedibili operative Giorno nelle loro affdabilitá. Traduzione non compromettere la integrità delle informazioni Giuseppe generale sulle reti generative avversarie (GAN). Spiegazioni del codice Python devono essere chiare e concise.
-
-
 # Import necessari
 import numpy as np
 import matplotlib.pyplot as plt
